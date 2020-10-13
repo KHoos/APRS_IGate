@@ -1,9 +1,15 @@
 # APRS_IGate
-APRS IGate
+APRS iGate
 
-Source code for the PI4RAZ Igate
+Source code for the PI4RAZ iGate
 
-# How to build
+The PI4RAZ iGate is described in the article
+'APRS iGate with Arduino' in https://www.pi4raz.nl/razzies/razzies201906.pdf
+
+The hardware building manual (in Dutch) is at
+https://www.pi4raz.nl/download/iGate-manual.pdf
+
+# How to build the code for the ESP32
 
 Add ESP32 support to an Arduino IDE environment
 
